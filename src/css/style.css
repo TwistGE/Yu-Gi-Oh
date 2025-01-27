@@ -26,6 +26,7 @@ body{
   padding: 12px;
   gap: 5px;
   position: absolute;
+  opacity: 0;
 }
 
 .cartao.selecionado{
